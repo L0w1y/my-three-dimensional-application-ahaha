@@ -158,13 +158,4 @@ export default {
 </script>
 
 <style> /* Стили по желанию. Не желай лучше! */
-#app {
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
-#sceneContainer {
-  position: relative;
-}
 </style>
